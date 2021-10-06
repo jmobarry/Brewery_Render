@@ -1,0 +1,34 @@
+#root{
+  
+background-color: rgb(155, 65, 5);
+color: grey-white;
+border-style:groove;
+border-width:1em;
+width: 800px;
+margin: auto;
+
+}
+
+#jumbo{
+    text-align: center;
+}
+
+center {
+    text-align: center;
+    
+  }
+  
+  .pagination {
+    display: inline-block;
+  }
+  
+  .pagination ul {
+    color: black;
+    position:absolute;
+    float: left;
+    padding: 20px 278px;
+    text-decoration: none;
+  }
+  
+
+
